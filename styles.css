@@ -1,0 +1,13 @@
+* {
+    background-color: purple;
+    color: white;
+
+}
+
+a:link {
+    color: white;
+}
+
+a:visited {
+    color: black;
+}
