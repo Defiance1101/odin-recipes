@@ -1,0 +1,9 @@
+* {
+    color: white;
+    background-color: purple;
+}
+
+img {
+    max-width: 500px;
+    max-height: auto;
+}
